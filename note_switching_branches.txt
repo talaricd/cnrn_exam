@@ -1,0 +1,14 @@
+Thats interesting 
+
+when I...
+
+add a new file to the test branch
+
+leave it open in Rstudio
+
+go back to github desktop swith from testbranch to main brach
+
+then return to rstudio
+
+rstudio says test file added to testbranch does not exist... asks to close
+
